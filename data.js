@@ -3,7 +3,8 @@ module.exports = [
         id: "K-8z_4xvT3o",
         title: "Recriando Interface do Twitter | Rocketseat",
         duration: "2h38m",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "SGwHpzgqzgk",
@@ -15,7 +16,8 @@ module.exports = [
         id: "6wn8hpUcEcM",
         title: "Drag and Drop Raiz | Rocketseat",
         duration: "56m",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "5MP6hmdEvJo",
@@ -27,7 +29,8 @@ module.exports = [
         id: "vq9u5esgEoQ",
         title: "Fala Dev Podcast sobre Programação | Rocketseat",
         duration: "35m",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "jmpKx5IF7j0",
